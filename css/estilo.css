@@ -1,0 +1,331 @@
+html body{
+  height: 100%;
+}
+
+body{
+  background: url(../images/fondo.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#logo {
+  border-radius:0px;
+  justify-content: center;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: 50%;
+}
+
+#main_title h2
+{
+  font-variant-position: super;
+  font-family: Bauhaus 93;
+}
+#b1{
+  height: 10px;
+  position:relative;
+  top:4px ;
+  bottom: 0;
+  right: 0;
+  left: 530px;
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #81DAF5;
+  background-color: #FA8258;
+  border-radius: 6px;
+  border: 2px solid #B45F04;
+  font-family: 'Bauhaus 93';
+}
+#derechos{
+  margin-top: 100%;
+  top:0;
+  bottom: 0;
+  right: 0;
+  left: 700px;
+  width: 500px;
+}
+#aviso{
+  position:relative;
+  top:0;
+  bottom: 0;
+  right: 0;
+  left: 720px;
+  width: 200px;
+}
+
+#b3{
+  position:relative;
+  top:4px ;
+  bottom: 0;
+  right: 0;
+  left: 570px;
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #81DAF5;
+  background-color: #FA8258;
+  border-radius: 6px;
+  border: 2px solid #B45F04;
+  font-family: 'Bauhaus 93';
+}
+
+#b5{
+
+  position:relative;
+  top:4px ;
+  bottom: 0;
+  right: 0;
+  left: 620px;
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #81DAF5;
+  background-color: #FA8258;
+  border-radius: 6px;
+  border: 2px solid #B45F04;
+  font-family: 'Bauhaus 93';
+}
+
+#b1:hover{
+  color: #FA8258;/*<<<<<acción al pasar el mouse sobre el boton*/
+  background-color: #ffffff;
+  /*>>>>>>>>>>>>>>>>>*/
+}
+#b2:hover{
+  color: #FA8258;/*<<<<<acción al pasar el mouse sobre el boton*/
+  background-color: #ffffff;
+  /*>>>>>>>>>>>>>>>>>*/
+}
+#b3:hover{
+  color: #FA8258;/*<<<<<acción al pasar el mouse sobre el boton*/
+  background-color: #ffffff;
+  /*>>>>>>>>>>>>>>>>>*/
+}
+#b4:hover{
+  color: #FA8258;/*<<<<<acción al pasar el mouse sobre el boton*/
+  background-color: #ffffff;
+  /*>>>>>>>>>>>>>>>>>*/
+}
+#b5:hover{
+  color: #FA8258;/*<<<<<acción al pasar el mouse sobre el boton*/
+  background-color: #ffffff;
+  /*>>>>>>>>>>>>>>>>>*/
+}
+#sandi1{
+  width: 250px; height: 200px;
+  left: 50px;
+  position:relative;
+ -moz-transition: all 0.5s ease;
+ -ms-transition: all 0.5s ease;
+margin: 0 auto;
+padding-top:150px;
+-webkit-transition:all .2s ease;
+-webkit-transition: all 0.5s ease-out;
+}
+#sandi1:hover{
+
+  -webkit-transform:scale(1.10);
+  -moz-transform:scale(1.10);
+  -ms-transform:scale(1.10);
+  -o-transform:scale(1.10);
+  transform:scale(1.10);
+}
+
+#sandi2{
+  position:relative;
+  width: 290px; height: 150px;
+  left: 70px;
+ -moz-transition: all 0.5s ease;
+ -ms-transition: all 0.5s ease;
+padding-top:150px;
+-webkit-transition:all .2s ease;
+-webkit-transition: all 0.5s ease-out;
+}
+#sandi2:hover{
+
+  -webkit-transform:scale(1.10);
+  -moz-transform:scale(1.10);
+  -ms-transform:scale(1.10);
+  -o-transform:scale(1.10);
+  transform:scale(1.10);
+}
+#sandi3{
+  position: relative;
+  width: 350px; height: 180px;
+  left: 80px;
+ -moz-transition: all 0.5s ease;
+ -ms-transition: all 0.5s ease;
+margin: 0 auto;
+padding-top:150px;
+-webkit-transition:all .2s ease;
+-webkit-transition: all 0.5s ease-out;
+}
+#sandi3:hover{
+
+  -webkit-transform:scale(1.10);
+  -moz-transform:scale(1.10);
+  -ms-transform:scale(1.10);
+  -o-transform:scale(1.10);
+  transform:scale(1.10);
+}
+#sandi4{
+  position: relative;
+  width: 350px; height: 230px;
+  left: 110px;
+ -moz-transition: all 0.5s ease;
+ -ms-transition: all 0.5s ease;
+margin: 0 auto;
+padding-top:150px;
+-webkit-transition:all .2s ease;
+-webkit-transition: all 0.5s ease-out;
+}
+#sandi4:hover{
+
+  -webkit-transform:scale(1.10);
+  -moz-transform:scale(1.10);
+  -ms-transform:scale(1.10);
+  -o-transform:scale(1.10);
+  transform:scale(1.10);
+}
+#sandi5{
+  position: relative;
+  left: 130px;
+  width: 250px; height: 200px;
+ -moz-transition: all 0.5s ease;
+ -ms-transition: all 0.5s ease;
+margin: 0 auto;
+padding-top:150px;
+-webkit-transition:all .2s ease;
+-webkit-transition: all 0.5s ease-out;
+}
+#sandi5:hover{
+
+  -webkit-transform:scale(1.10);
+  -moz-transform:scale(1.10);
+  -ms-transform:scale(1.10);
+  -o-transform:scale(1.10);
+  transform:scale(1.10);
+}
+#b1:hover{
+  -webkit-transform:scale(0.10);
+  -moz-transform:scale(0.10);
+  -ms-transform:scale(0.10);
+  -o-transform:scale(0.10);
+  transform:scale(0.10);
+}
+#marca{
+  font-family: 'Bauhaus 93';
+  position: relative;
+  left: 630px;
+  top:120px;
+  font-size: 40px;
+  width: 500px;
+}
+#pie{
+  position: relative;
+  left: 680px;
+  width: 450px;
+}
+#pie2{
+  width: 200px;
+  text-decoration: none;
+  position: relative;
+  left: 760px;
+}
+#priv{
+  font-family: 'Berlin Sans FB';
+  position: relative;
+  left: 80px;
+  font-size: 23px;
+  width: 1500px; height: 1700px;
+  background: #ffffff;
+  border-radius: 30px;
+  border-color: red;
+}
+#avi{
+  font-family: 'Berlin Sans FB';
+  font-size: 30px;
+  position: relative;
+  top:100px;
+  left: 650px;
+  background: #81DAF5;
+  width: 310px; height: 40px;
+  border-radius: 15px;
+  color:#ffffff;
+}
+#hola{
+  top:50px;
+  left: 75px;
+  position: relative;
+  width: 1500px; height: 500px;
+}
+#mision{
+  position: relative;
+  font-family: 'Brush Script MT';
+  font-size: 40px;
+  font-weight:bolder;
+  color: #FF8000;
+  width: 200px;
+  left: 760px;
+  top:10px;
+
+}
+#mision2{
+  background: #E0F2F7;
+  font-family: 'French Script MT';
+  font-size: 35px;
+  border-radius: 20px;
+  width: 800px;
+  height: 210px;
+  font-weight: bolder;
+  color: #F5A9A9;
+  position: relative;
+  left: 420px;
+  top:30px;
+}
+#vision2{
+  background: #E0F2F7;
+  font-family: 'French Script MT';
+  font-size: 35px;
+  border-radius: 20px;
+  width: 800px;
+  height: 130px;
+  font-weight: bolder;
+  color: #F5A9A9;
+  position: relative;
+  left: 420px;
+}
+#vision{
+  font-family: 'Brush Script MT';
+  font-size: 40px;
+  font-weight:bolder;
+  color:#FF8000;
+  width: 200px;
+  position: relative;
+  left: 760px;
+}
+#opac{
+  position: relative;
+  left: 680px;
+  background: #2E2E2E;
+  opacity: 0.3;
+  width: 300px;
+  height: 130px;
+  border-radius: 50%;
+  top:125px;
+}
+#opac2{
+  position: relative;
+  left: 680px;
+  background: #2E2E2E;
+  opacity: 0.3;
+  width: 300px;
+  height: 130px;
+  border-radius: 50%;
+  top:115px;
+}
